@@ -16,7 +16,7 @@ function App() {
           Quiz App
         </h1>
         <p className="text-center mb-3 ml-3 mr-3 mt-3">
-          Each quiz contains 10 questions, you get 10 point for each correct
+          Each quiz contains 10 questions, you get 1 point for each correct
           answer, at the end of each quiz you get your total score.
         </p>
         <div className="w-full h-40 grid grid-cols-1 gap-y-2 sm:grid-cols-2 sm:gap-x-2 sm:h-52">
